@@ -7,3 +7,6 @@ A local college uses a popular software to manage its data. The software has bee
 Your assignment is to: 
 1. Define a database schema in SQL. [Click here for the full homework assignment with specific schema requirements](https://davidtchiu.github.io/teaching/cs455/hwk3.ddl/)
 2. After your schema has been defined, you must write a script that will take the data from its raw format and insert it into your database.
+
+
+shmeeplesoft.raw.txt contains the raw student course enrollment information for cleansing and entry into the SQL database I defined. 
