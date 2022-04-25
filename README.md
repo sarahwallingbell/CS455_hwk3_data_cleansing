@@ -9,4 +9,4 @@ Your assignment is to:
 2. After your schema has been defined, you must write a script that will take the data from its raw format and insert it into your database.
 
 
-shmeeplesoft.raw.txt contains the raw student course enrollment information for cleansing and entry into the SQL database I defined. 
+*shmeeplesoft.raw.txt* contains the raw student course enrollment information for cleansing and entry into the SQL database I defined. 
