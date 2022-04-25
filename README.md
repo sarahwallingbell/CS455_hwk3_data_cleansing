@@ -1,6 +1,5 @@
-# CS455 Principles of Database Systems
-# Homework Assignment 3
-# OCtober, 2019
+# SQL database creation and data cleansing
+### CS455 Principles of Database Systems <br>Homework Assignment 3 <br>October, 2019
 
 Homework assignment summary: 
 A local college uses a popular software to manage its data. The software has been collecting years’ worth of data on their students and course enrollment in a single spreadsheet, and over time, the size of this file has gotten out of hand. College administrators can no longer “eyeball” the spreadsheet to do simple analysis, and require the help of someone with database expertise…
